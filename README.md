@@ -7,4 +7,4 @@ The demo is using an arduino that measures certain conditions and relay the info
 The esp reports the measurements to a flask server that in turn hosts and updates the GUI of our system. In the GUI there are certain
 charts that update realtime and certain charts that are mockups.
 
-The demo was coded overnight.
+The demo was coded overnight and it serves as a mockup for our envisioned functionality
